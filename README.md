@@ -9,7 +9,7 @@ Database Experience - DIO
 
 * PRODUTOS 
 -   vendidos por uma única plataforma on-line, podendo ter vendedores distintos
--   cada produto possui um forncedor
+-   cada produto possui um fornecedor
 -   um ou mais produtos podem compor um pedido
 
 * CLIENTE
@@ -18,7 +18,7 @@ Database Experience - DIO
 -   pode comprar mais de um pedido, e tem carência para devolução do produto
 
 * PEDIDO
--   criados pelos clientes, com iformações de compra, endereço e status de entrega
+-   criados pelos clientes, com informações de compra, endereço e status de entrega
 -   um ou mais produtos podem compor um pedido
 -   pode ser cancelado
 
