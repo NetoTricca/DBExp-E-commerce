@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/68438464/190260040-8ffe8e49-21b8-47c3-a647-630c39510c43.png)
+![image](https://user-images.githubusercontent.com/68438464/190282356-7ae20b6b-13fb-4145-8b01-06e84428d66c.png)
+
 
 # DBExp-E-commerce
 Database Experience - DIO
